@@ -26,3 +26,13 @@ This project is for fan purposes only and not for commercial use.
 ---
 **Note:** This website is a fan-made concept inspired by ENHYPEN’s dark/vampire aesthetics. All media is used for demonstration purposes.
 
+## Pages / Sections
+
+This website includes multiple sections/pages:
+
+- **Home** – Dark ENHYPEN vampire-themed homepage with blood-drop animations, mist effects, and background music.
+- **Videos** – Dedicated page or section featuring ENHYPEN music videos with embedded YouTube videos.
+- **Gallery** – Section showcasing images of ENHYPEN.
+- **Contact** – Form to send messages to the fandom.
+
+> Note: The “Videos” section can either be a scrollable section in the homepage or a separate `videos.html` page.
